@@ -2,8 +2,7 @@
 
 AegisAI Bot is your **all-in-one trading assistant**, powered by cutting-edge AI algorithms. It provides real-time market insights, risk management, and portfolio optimization for smarter, more efficient trading decisions. Designed to integrate seamlessly with platforms like Binance, Coinbase, and MetaTrader.
 
-Discord Telegram
-X
+Discord | Telegram | X
 ---
 
 ### 📲 **Connect with Us**
