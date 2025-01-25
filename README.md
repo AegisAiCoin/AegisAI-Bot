@@ -32,3 +32,14 @@ Join our community and stay updated on the latest developments:
    git clone https://github.com/example/AegisAI-Bot.git
    cd AegisAI-Bot
    npm install
+
+2. **Connect Your Wallet**:
+   Set up your API keys for supported exchanges (e.g., Binance, Coinbase) in the .env file.
+
+3. **Run the Bot**:
+   Start the bot to begin trading:
+   ```bash
+   npm start
+
+4. **Access Telegram Bot**:
+Connect your bot to Telegram for real-time trade updates: AegisAI Telegram Bot
